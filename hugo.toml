@@ -1,0 +1,56 @@
+baseURL = 'https://jeonck.github.io/one-sentence/'
+locale = 'ko-kr'
+title = '영어 한문장'
+theme = 'PaperMod'
+paginate = 10
+
+[params]
+  env = 'production'
+  title = '영어 한문장'
+  description = '하루 한 문장, 영어를 쉽고 재미있게'
+  author = 'jeonck'
+  defaultTheme = 'auto'
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowWordCount = true
+  ShowRssButtonInSectionTermList = true
+  UseHugoToc = true
+  disableSpecial1stPost = false
+  disableScrollToTop = false
+  comments = false
+  hidemeta = false
+  hideSummary = false
+  showtoc = false
+  tocopen = false
+
+  [params.homeInfoParams]
+    Title = '영어 한문장 ✏️'
+    Content = '하루 한 문장, 영어를 쉽고 재미있게 배워봐요'
+
+  [[params.socialIcons]]
+    name = 'github'
+    url = 'https://github.com/jeonck'
+
+[menu]
+  [[menu.main]]
+    identifier = 'posts'
+    name = 'Posts'
+    url = '/posts/'
+    weight = 10
+  [[menu.main]]
+    identifier = 'tags'
+    name = 'Tags'
+    url = '/tags/'
+    weight = 20
+  [[menu.main]]
+    identifier = 'search'
+    name = 'Search'
+    url = '/search/'
+    weight = 30
+
+[outputs]
+  home = ['HTML', 'RSS', 'JSON']
