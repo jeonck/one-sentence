@@ -18,7 +18,7 @@ tags: ["영어", "회화영어", "일상표현", "생활영어"]
 | feel like ~ing | [필 라이크] | ~하고 싶다, ~하고 싶은 기분이다 |
 | have lunch | [해브 런치] | 점심을 먹다 |
 
-> 💡 **Tip:** **"feel like ~ing"**은 지금 이 순간 하고 싶은 기분이나 욕구를 자연스럽게 표현할 때 씁니다. **"I want to ~"**보다 가볍고 구어적인 뉘앙스예요. 음식을 먹고 싶을 때는 **"I feel like having ~"** 또는 **"I feel like some ~"** 둘 다 쓸 수 있어요. **"I feel like pizza"**(피자 먹고 싶다), **"I feel like going for a walk"**(산책하고 싶다)처럼 바로 응용해 보세요.
+> 💡 **Tip:** **"feel like ~ing"**은 지금 이 순간 하고 싶은 기분이나 욕구를 자연스럽게 표현할 때 씁니다. **"I want to ~"**보다 가볍고 구어적인 뉘앙스예요. 음식을 먹고 싶을 때는 **"I feel like having ~"** 또는 **"I feel like some ~"** 둘 다 쓸 수 있어요. **"I feel like pizza"** (피자 먹고 싶다), **"I feel like going for a walk"** (산책하고 싶다)처럼 바로 응용해 보세요.
 
 ### 활용 예문
 

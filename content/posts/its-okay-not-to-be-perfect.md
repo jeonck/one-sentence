@@ -18,7 +18,7 @@ tags: ["영어", "회화영어", "가치관표현", "일상표현"]
 | It's okay not to | [잇츠 오케이 낫 투] | ~하지 않아도 괜찮다 |
 | perfect | [퍼펙트] | 완벽한 |
 
-> 💡 **Tip:** **"It's okay not to ~"**는 무언가를 하지 않아도 된다고 부드럽게 허락하거나 위로할 때 쓰는 패턴입니다. **"You don't have to be perfect"**(완벽할 필요 없어)도 같은 의미지만, **"It's okay ~"**는 더 따뜻하고 공감하는 뉘앙스가 있어요. 비슷하게 **"Nobody's perfect"**(완벽한 사람은 없어), **"Done is better than perfect"**(완벽한 것보다 끝내는 게 낫다)도 완벽주의를 내려놓을 때 자주 쓰는 표현입니다.
+> 💡 **Tip:** **"It's okay not to ~"**는 무언가를 하지 않아도 된다고 부드럽게 허락하거나 위로할 때 쓰는 패턴입니다. **"You don't have to be perfect"** (완벽할 필요 없어)도 같은 의미지만, **"It's okay ~"**는 더 따뜻하고 공감하는 뉘앙스가 있어요. 비슷하게 **"Nobody's perfect"** (완벽한 사람은 없어), **"Done is better than perfect"** (완벽한 것보다 끝내는 게 낫다)도 완벽주의를 내려놓을 때 자주 쓰는 표현입니다.
 
 ### 활용 예문
 

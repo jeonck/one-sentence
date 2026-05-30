@@ -18,7 +18,7 @@ tags: ["영어", "회화영어", "일상표현", "인사표현"]
 | Good job | [굿 잡] | 잘했어, 수고했어 |
 | You did great | [유 디드 그레이트] | 정말 잘했어, 대단했어 |
 
-> 💡 **Tip:** 한국어의 "수고했어"는 영어로 딱 떨어지는 표현이 없지만, 상황에 따라 다양하게 표현할 수 있어요. 칭찬을 담을 때는 **"Good job today"**, **"You did great today"**, 하루를 마무리하며 위로할 때는 **"You worked hard today"**(오늘 열심히 했어), **"You've earned your rest"**(충분히 쉴 자격 있어)가 자연스럽습니다. 직장에서는 **"Great work today, everyone"**(오늘 모두 수고했어요)처럼 팀 전체에게도 쓸 수 있어요.
+> 💡 **Tip:** 한국어의 "수고했어"는 영어로 딱 떨어지는 표현이 없지만, 상황에 따라 다양하게 표현할 수 있어요. 칭찬을 담을 때는 **"Good job today"**, **"You did great today"**, 하루를 마무리하며 위로할 때는 **"You worked hard today"** (오늘 열심히 했어), **"You've earned your rest"** (충분히 쉴 자격 있어)가 자연스럽습니다. 직장에서는 **"Great work today, everyone"** (오늘 모두 수고했어요)처럼 팀 전체에게도 쓸 수 있어요.
 
 ### 활용 예문
 

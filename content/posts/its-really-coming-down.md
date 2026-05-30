@@ -18,7 +18,7 @@ tags: ["영어", "회화영어", "일상표현", "날씨표현"]
 | come down | [컴 다운] | (비·눈이) 내리다, 쏟아지다 |
 | really coming down | [리얼리 커밍 다운] | 엄청나게 쏟아지고 있다 |
 
-> 💡 **Tip:** **"It's really coming down"**은 눈이나 비가 엄청나게 쏟아지는 상황을 표현하는 원어민식 표현입니다. 눈과 비 모두에 쓸 수 있어요. 눈이 오는 상황을 더 구체적으로 표현할 때는 **"It's snowing heavily"**(눈이 많이 와), **"We're getting a lot of snow"**(눈이 많이 쌓이고 있어), **"It's a blizzard out there"**(밖에 눈보라가 치고 있어)도 함께 알아두면 좋습니다.
+> 💡 **Tip:** **"It's really coming down"**은 눈이나 비가 엄청나게 쏟아지는 상황을 표현하는 원어민식 표현입니다. 눈과 비 모두에 쓸 수 있어요. 눈이 오는 상황을 더 구체적으로 표현할 때는 **"It's snowing heavily"** (눈이 많이 와), **"We're getting a lot of snow"** (눈이 많이 쌓이고 있어), **"It's a blizzard out there"** (밖에 눈보라가 치고 있어)도 함께 알아두면 좋습니다.
 
 ### 활용 예문
 

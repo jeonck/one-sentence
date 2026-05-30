@@ -18,7 +18,7 @@ tags: ["영어", "회화영어", "일상표현", "날씨표현"]
 | foggy | [포기] | 안개가 낀, 안개가 자욱한 |
 | out | [아웃] | 밖에, 바깥에 (= outside) |
 
-> 💡 **Tip:** **"foggy"**는 안개가 낀 날씨를 표현하는 가장 일반적인 단어입니다. **"It's foggy out"**에서 **"out"**은 **"outside"**를 줄인 구어 표현이에요. 안개가 특히 짙을 때는 **"There's a thick fog"**(짙은 안개가 껴 있어), **"I can barely see through the fog"**(안개 때문에 거의 앞이 안 보여)라고 합니다. 재미있는 표현으로 **"It's like pea soup out there"**(밖이 완두콩 수프처럼 짙은 안개야)라는 관용 표현도 있어요.
+> 💡 **Tip:** **"foggy"**는 안개가 낀 날씨를 표현하는 가장 일반적인 단어입니다. **"It's foggy out"**에서 **"out"**은 **"outside"**를 줄인 구어 표현이에요. 안개가 특히 짙을 때는 **"There's a thick fog"** (짙은 안개가 껴 있어), **"I can barely see through the fog"** (안개 때문에 거의 앞이 안 보여)라고 합니다. 재미있는 표현으로 **"It's like pea soup out there"** (밖이 완두콩 수프처럼 짙은 안개야)라는 관용 표현도 있어요.
 
 ### 활용 예문
 
