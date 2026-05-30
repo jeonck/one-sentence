@@ -18,7 +18,7 @@ tags: ["영어", "회화영어", "일상표현", "인사표현"]
 | See you | [씨 유] | 또 봐, 나중에 봐 (작별 인사) |
 | Catch you | [캐치 유] | 나중에 봐 (구어적, 캐주얼) |
 
-> 💡 **Tip:** **"See you"**는 영어에서 가장 자주 쓰이는 작별 인사 중 하나입니다. 뒤에 시간 표현만 바꾸면 다양하게 응용할 수 있어요. **"See you later"** (나중에 봐), **"See you soon"** (곧 봐), **"See you next week"** (다음 주에 봐). 더 캐주얼하게는 **"Catch you tomorrow"** (내일 봐), **"Talk to you tomorrow"** (내일 연락해)도 자주 씁니다. 직장에서 퇴근할 때는 **"See you tomorrow!"** 한 마디로 자연스럽게 마무리할 수 있어요.
+> 💡 **Tip:** **"See you"** 는 영어에서 가장 자주 쓰이는 작별 인사 중 하나입니다. 뒤에 시간 표현만 바꾸면 다양하게 응용할 수 있어요. **"See you later"** (나중에 봐), **"See you soon"** (곧 봐), **"See you next week"** (다음 주에 봐). 더 캐주얼하게는 **"Catch you tomorrow"** (내일 봐), **"Talk to you tomorrow"** (내일 연락해)도 자주 씁니다. 직장에서 퇴근할 때는 **"See you tomorrow!"** 한 마디로 자연스럽게 마무리할 수 있어요.
 
 ### 활용 예문
 

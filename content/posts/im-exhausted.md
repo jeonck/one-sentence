@@ -18,7 +18,7 @@ tags: ["영어", "회화영어", "감정표현", "일상표현"]
 | exhausted | [이그조스티드] | 완전히 지친, 기진맥진한 |
 | tired | [타이어드] | 피곤한 (exhausted보다 가벼운 표현) |
 
-> 💡 **Tip:** **"tired"**가 일반적인 피곤함이라면, **"exhausted"**는 몸과 마음이 완전히 방전된 상태를 표현합니다. 비슷한 표현으로 **"I'm worn out"** (다 닳아 버렸어, 완전 지쳐), **"I'm drained"** (에너지가 다 빠져나갔어), **"I'm dead tired"** (죽을 만큼 피곤해)가 있으며, 강도 순으로 나열하면 `tired → worn out → exhausted → drained` 정도로 볼 수 있어요.
+> 💡 **Tip:** **"tired"** 가 일반적인 피곤함이라면, **"exhausted"** 는 몸과 마음이 완전히 방전된 상태를 표현합니다. 비슷한 표현으로 **"I'm worn out"** (다 닳아 버렸어, 완전 지쳐), **"I'm drained"** (에너지가 다 빠져나갔어), **"I'm dead tired"** (죽을 만큼 피곤해)가 있으며, 강도 순으로 나열하면 `tired → worn out → exhausted → drained` 정도로 볼 수 있어요.
 
 ### 활용 예문
 

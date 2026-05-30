@@ -18,7 +18,7 @@ tags: ["영어", "회화영어", "일상표현", "날씨표현"]
 | freezing | [프리징] | 몹시 추운, 얼 것 같은 |
 | chilly | [칠리] | 쌀쌀한, 서늘한 |
 
-> 💡 **Tip:** **"freezing"**은 원래 "어는, 영하의"라는 뜻이지만 일상 회화에서는 "몹시 춥다"는 강조 표현으로 씁니다. 추위의 강도 순으로 나열하면 `a bit cold(좀 춥다) → cold(춥다) → chilly(쌀쌀하다) → freezing(얼 것 같다) → absolutely freezing(죽을 만큼 춥다)` 정도예요. 반대로 더울 때는 **"It's boiling"** (끓을 것 같이 더워), **"It's scorching"** (따갑게 뜨거워)처럼 표현합니다.
+> 💡 **Tip:** **"freezing"** 은 원래 "어는, 영하의"라는 뜻이지만 일상 회화에서는 "몹시 춥다"는 강조 표현으로 씁니다. 추위의 강도 순으로 나열하면 `a bit cold(좀 춥다) → cold(춥다) → chilly(쌀쌀하다) → freezing(얼 것 같다) → absolutely freezing(죽을 만큼 춥다)` 정도예요. 반대로 더울 때는 **"It's boiling"** (끓을 것 같이 더워), **"It's scorching"** (따갑게 뜨거워)처럼 표현합니다.
 
 ### 활용 예문
 

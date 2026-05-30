@@ -18,7 +18,7 @@ tags: ["영어", "회화영어", "일상표현", "날씨표현"]
 | it looks like ~ | [잇 룩스 라이크] | ~인 것 같다, ~처럼 보인다 |
 | it's going to ~ | [잇츠 고잉 투] | ~할 것이다 (근거 있는 예측) |
 
-> 💡 **Tip:** **"It looks like ~"**는 눈앞의 상황을 보고 내리는 판단을 표현할 때 씁니다. **"It seems like ~"**와 비슷하지만 더 구어적이에요. 날씨 예측에서 **"it's going to rain"**은 하늘을 보고 확신에 가까운 예측을 할 때, **"it might rain"**은 가능성이 있을 때, **"it's supposed to rain"**은 일기예보를 근거로 말할 때 씁니다. 일상에서 **"Looks like rain"**처럼 줄여서 말하기도 해요.
+> 💡 **Tip:** **"It looks like ~"** 는 눈앞의 상황을 보고 내리는 판단을 표현할 때 씁니다. **"It seems like ~"** 와 비슷하지만 더 구어적이에요. 날씨 예측에서 **"it's going to rain"** 은 하늘을 보고 확신에 가까운 예측을 할 때, **"it might rain"** 은 가능성이 있을 때, **"it's supposed to rain"** 은 일기예보를 근거로 말할 때 씁니다. 일상에서 **"Looks like rain"** 처럼 줄여서 말하기도 해요.
 
 ### 활용 예문
 

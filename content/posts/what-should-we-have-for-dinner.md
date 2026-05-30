@@ -18,7 +18,7 @@ tags: ["영어", "회화영어", "일상표현", "생활영어"]
 | What should we have? | [왓 슈드 위 해브] | 우리 뭐 먹을까? |
 | have ~ for dinner | [해브 포 디너] | 저녁으로 ~을 먹다 |
 
-> 💡 **Tip:** 식사 메뉴를 함께 정할 때 원어민들은 **"What should we have for dinner?"**를 가장 자주 씁니다. 비슷한 표현으로 **"What do you want for dinner?"** (저녁 뭐 먹고 싶어?), **"What are we having for dinner?"** (저녁 뭐 먹어?)도 있어요. 식사 종류를 바꿔 **"What should we have for lunch?"** (점심 뭐 먹을까?), **"What should we have for breakfast?"** (아침 뭐 먹을까?)처럼 응용하면 됩니다.
+> 💡 **Tip:** 식사 메뉴를 함께 정할 때 원어민들은 **"What should we have for dinner?"** 를 가장 자주 씁니다. 비슷한 표현으로 **"What do you want for dinner?"** (저녁 뭐 먹고 싶어?), **"What are we having for dinner?"** (저녁 뭐 먹어?)도 있어요. 식사 종류를 바꿔 **"What should we have for lunch?"** (점심 뭐 먹을까?), **"What should we have for breakfast?"** (아침 뭐 먹을까?)처럼 응용하면 됩니다.
 
 ### 활용 예문
 

@@ -18,7 +18,7 @@ tags: ["영어", "회화영어", "감정표현", "묘사표현"]
 | couldn't believe | [쿠든트 빌리브] | 믿을 수 없었다 |
 | believe one's eyes | [빌리브 아이즈] | 눈을 믿다, 눈앞의 광경을 사실로 받아들이다 |
 
-> 💡 **Tip:** **"couldn't believe her eyes"**는 너무 놀랍거나 충격적인 장면을 목격했을 때 쓰는 표현입니다. 좋은 의미(깜짝 선물, 믿기 어려운 아름다운 풍경)로도, 나쁜 의미(충격적인 사고 현장, 황당한 상황)로도 모두 사용할 수 있어요. 주어에 따라 **"I couldn't believe my eyes"**, **"He couldn't believe his eyes"**처럼 소유격만 바꿔주면 됩니다.
+> 💡 **Tip:** **"couldn't believe her eyes"** 는 너무 놀랍거나 충격적인 장면을 목격했을 때 쓰는 표현입니다. 좋은 의미(깜짝 선물, 믿기 어려운 아름다운 풍경)로도, 나쁜 의미(충격적인 사고 현장, 황당한 상황)로도 모두 사용할 수 있어요. 주어에 따라 **"I couldn't believe my eyes"**, **"He couldn't believe his eyes"** 처럼 소유격만 바꿔주면 됩니다.
 
 ### 활용 예문
 
