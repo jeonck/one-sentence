@@ -3,6 +3,7 @@ locale = 'ko-kr'
 title = '영어 한문장'
 theme = 'PaperMod'
 paginate = 10
+buildFuture = true
 
 [params]
   env = 'production'
