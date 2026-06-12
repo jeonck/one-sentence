@@ -7,24 +7,22 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"just pretended"**
+**"I didn't want to hurt his feelings, so I just pretended to be happy."**
 
-> 그저 ~인 척했어
+> 그의 기분을 상하게 하고 싶지 않아서 그냥 행복한 척했어요.
 
 ### 단어 풀이
 
 | 단어/패턴 | 발음 | 뜻 |
 |-----------|------|-----|
-| just pretended | - | 그저 ~인 척했어 |
+| just pretended | [저스트 프리텐디드] | 그저 ~인 척했어 |
 
-> 💡 **Tip:** 사실이 아니지만 타인을 속이거나 상황을 모면하기 위해 가장했을 때 씁니다. 영어식 사고로는 '그저 ~인 척했어'라는 느낌을 기억하면 좋습니다.
+> 💡 **Tip:** 사실이 아니지만 타인을 속이거나 상황을 모면하기 위해 가장했을 때 씁니다. 영어식 사고로는 '그저 ~인 척했어' 이라는 느낌을 기억하면 좋습니다.
 
 ### 활용 예문
 
-- I like coffee **"just pretended"** (기타 등등).
-  (나는 커피나 그런 것들을 좋아해.)
+- She **"just pretended"** she didn't hear the mean comment (그녀는 그 못된 말을 못 들은 척했어요).
 
-- **"just pretended"** 는 정말 중요한 표현이에요.
-  (그저 ~인 척했어 라는 뜻으로 자주 쓰이죠.)
+- He's not actually sick; he **"just pretended"** so he could stay home (그는 진짜 아픈 게 아니라, 그냥 집에 있으려고 아픈 척한 거예요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

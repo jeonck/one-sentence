@@ -7,24 +7,22 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"killer handshake"**
+**"The CEO greeted everyone with a killer handshake."**
 
-> 아주 강렬한 악수
+> CEO는 모든 사람을 아주 힘 있고 인상적인 악수로 맞이했어요.
 
 ### 단어 풀이
 
 | 단어/패턴 | 발음 | 뜻 |
 |-----------|------|-----|
-| killer handshake | - | 아주 강렬한 악수 |
+| killer handshake | [킬러 핸드쉐이크] | 아주 강렬한 악수 |
 
-> 💡 **Tip:** 힘 있고 인상적인 악수를 뜻하거나, 때로는 손이 아플 정도로 꽉 쥐는 악수를 말합니다. 영어식 사고로는 '아주 강렬한 악수'라는 느낌을 기억하면 좋습니다.
+> 💡 **Tip:** 힘 있고 인상적인 악수를 뜻하거나, 때로는 손이 아플 정도로 꽉 쥐는 악수를 말합니다. 영어식 사고로는 '아주 강렬한 악수' 이라는 느낌을 기억하면 좋습니다.
 
 ### 활용 예문
 
-- I like coffee **"killer handshake"** (기타 등등).
-  (나는 커피나 그런 것들을 좋아해.)
+- Watch out for him; he's got a **"killer handshake"** that might crush your fingers (그 사람 조심해. 손가락이 부러질 정도로 꽉 쥐는 악수를 하거든).
 
-- **"killer handshake"** 는 정말 중요한 표현이에요.
-  (아주 강렬한 악수 라는 뜻으로 자주 쓰이죠.)
+- A **"killer handshake"** can make a great first impression during an interview (강렬하고 자신감 넘치는 악수는 면접에서 좋은 첫인상을 줄 수 있어요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

@@ -7,24 +7,22 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"late pass"**
+**"I had to go to the office to get a late pass for my first class."**
 
-> 지각 허가증
+> 첫 수업 지각 허가증을 받으러 교무실에 가야 했어요.
 
 ### 단어 풀이
 
 | 단어/패턴 | 발음 | 뜻 |
 |-----------|------|-----|
-| late pass | - | 지각 허가증 |
+| late pass | [레이트 패스] | 지각 허가증 |
 
-> 💡 **Tip:** 정당한 사유로 지각했을 때 학교에서 끊어주는 증명서입니다. 영어식 사고로는 '지각 허가증'라는 느낌을 기억하면 좋습니다.
+> 💡 **Tip:** 정당한 사유로 지각했을 때 학교에서 끊어주는 증명서입니다. 영어식 사고로는 '지각 허가증' 이라는 느낌을 기억하면 좋습니다.
 
 ### 활용 예문
 
-- I like coffee **"late pass"** (기타 등등).
-  (나는 커피나 그런 것들을 좋아해.)
+- If you don't have a **"late pass"** , the teacher won't let you in (지각 허가증이 없으면 선생님이 들여보내 주지 않으실 거야).
 
-- **"late pass"** 는 정말 중요한 표현이에요.
-  (지각 허가증 라는 뜻으로 자주 쓰이죠.)
+- I've used up all my **"late passes"** for this semester already (이번 학기 지각 허가증을 벌써 다 써버렸어요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

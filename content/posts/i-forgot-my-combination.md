@@ -7,24 +7,22 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"I forgot my combination"**
+**"I was late for class because I forgot my combination and couldn't open my locker."**
 
-> 사물함 비밀번호를 잊어버렸어
+> 사물함 비밀번호를 잊어버려서 못 여는 바람에 수업에 늦었어요.
 
 ### 단어 풀이
 
 | 단어/패턴 | 발음 | 뜻 |
 |-----------|------|-----|
-| I forgot my combination | - | 사물함 비밀번호를 잊어버렸어 |
+| I forgot my combination | [아이 퍼갓 마이 콤비네이션] | 사물함 비밀번호를 잊어버렸어 |
 
-> 💡 **Tip:** 학교 사물함의 번호 조합(combination)이 기억나지 않는 상황입니다. 영어식 사고로는 '사물함 비밀번호를 잊어버렸어'라는 느낌을 기억하면 좋습니다.
+> 💡 **Tip:** 학교 사물함의 번호 조합(combination)이 기억나지 않는 상황입니다. 영어식 사고로는 '사물함 비밀번호를 잊어버렸어' 이라는 느낌을 기억하면 좋습니다.
 
 ### 활용 예문
 
-- I like coffee **"I forgot my combination"** (기타 등등).
-  (나는 커피나 그런 것들을 좋아해.)
+- Can you help me? **"I forgot my combination"** again (좀 도와줄래? 비밀번호를 또 잊어버렸어).
 
-- **"I forgot my combination"** 는 정말 중요한 표현이에요.
-  (사물함 비밀번호를 잊어버렸어 라는 뜻으로 자주 쓰이죠.)
+- It's embarrassing when you **"forget your combination"** in front of everyone (모두가 보는 앞에서 비밀번호를 잊어버리면 정말 당황스러워요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

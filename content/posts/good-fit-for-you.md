@@ -7,24 +7,22 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"good fit for you"**
+**"I think this job would be a really good fit for you."**
 
-> 너에게 잘 맞는 것
+> 이 직업이 당신에게 정말 잘 맞을 것 같아요.
 
 ### 단어 풀이
 
 | 단어/패턴 | 발음 | 뜻 |
 |-----------|------|-----|
-| good fit for you | - | 너에게 잘 맞는 것 |
+| good fit for you | [굿 핏 포 유] | 너에게 잘 맞는 것 |
 
-> 💡 **Tip:** 성격, 환경, 혹은 옷 등이 누군가에게 아주 잘 어울릴 때 씁니다. 영어식 사고로는 '너에게 잘 맞는 것'라는 느낌을 기억하면 좋습니다.
+> 💡 **Tip:** 성격, 환경, 혹은 옷 등이 누군가에게 아주 잘 어울릴 때 씁니다. 영어식 사고로는 '너에게 잘 맞는 것' 이라는 느낌을 기억하면 좋습니다.
 
 ### 활용 예문
 
-- I like coffee **"good fit for you"** (기타 등등).
-  (나는 커피나 그런 것들을 좋아해.)
+- That blue sweater is a **"good fit for you"** ; it matches your eyes (그 파란색 스웨터가 너한테 참 잘 어울려. 네 눈동자 색이랑 비슷해).
 
-- **"good fit for you"** 는 정말 중요한 표현이에요.
-  (너에게 잘 맞는 것 라는 뜻으로 자주 쓰이죠.)
+- We need to find a school that is a **"good fit for"** your learning style (너의 학습 스타일에 잘 맞는 학교를 찾아야 해).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪
