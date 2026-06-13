@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"The band gave a killer performance that the audience will never forget."**
+**The band gave a killer performance that the audience will never forget.**
 
 > 그 밴드는 관객들이 결코 잊지 못할 최고의 공연을 선보였어요.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- She delivered a **"killer performance"** in the school play (그녀는 학교 연극에서 정말 멋진 연기를 보여주었어요).
+- She delivered a **killer performance** in the school play (그녀는 학교 연극에서 정말 멋진 연기를 보여주었어요).
 
-- We need a **"killer performance"** from the whole team to win the championship (우승하려면 팀 전체가 최고의 기량을 발휘해야 해요).
+- We need a **killer performance** from the whole team to win the championship (우승하려면 팀 전체가 최고의 기량을 발휘해야 해요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"I thought you wouldn't like the gift, but I have to admit, I was wrong."**
+**I thought you wouldn't like the gift, but I have to admit, I was wrong.**
 
 > 네가 선물을 좋아하지 않을 줄 알았는데, 인정해야겠어, 내가 틀렸어.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- **"I have to admit, I was wrong"** about her; she's actually very kind (인정해야겠어요, 그녀에 대해 제가 틀렸어요. 실제로는 정말 친절하더라고요).
+- **I have to admit, I was wrong** about her; she's actually very kind (인정해야겠어요, 그녀에 대해 제가 틀렸어요. 실제로는 정말 친절하더라고요).
 
-- It's hard to say, but **"I have to admit, I was wrong"** (말하기 어렵지만, 인정해야겠어요, 제가 틀렸습니다).
+- It's hard to say, but **I have to admit, I was wrong** (말하기 어렵지만, 인정해야겠어요, 제가 틀렸습니다).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

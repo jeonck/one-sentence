@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"I was petrified when I had to speak in front of the whole school."**
+**I was petrified when I had to speak in front of the whole school.**
 
 > 전교생 앞에서 연설을 해야 했을 때 나는 겁에 질려 얼어붙었어요.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- The loud thunder left the little kitten **"petrified"** under the sofa (큰 천둥소리에 어린 새끼 고양이는 소파 아래에서 겁에 질려 있었어요).
+- The loud thunder left the little kitten **petrified** under the sofa (큰 천둥소리에 어린 새끼 고양이는 소파 아래에서 겁에 질려 있었어요).
 
-- I'm absolutely **"petrified"** of spiders (나는 거미를 정말 무서워해요).
+- I'm absolutely **petrified** of spiders (나는 거미를 정말 무서워해요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

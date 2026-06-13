@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"I'm not really in the mood for a movie tonight."**
+**I'm not really in the mood for a movie tonight.**
 
 > 오늘 밤은 딱히 영화를 보고 싶은 기분이 아니에요.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- Are you **"in the mood for"** some Italian food? (이탈리아 음식이 당기나요?)
+- Are you **in the mood for** some Italian food? (이탈리아 음식이 당기나요?)
 
-- I was **"in the mood to"** go for a long walk (나는 긴 산책을 하고 싶은 기분이었어요).
+- I was **in the mood to** go for a long walk (나는 긴 산책을 하고 싶은 기분이었어요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

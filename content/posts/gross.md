@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"Eww, that's so gross! Why would you eat that?"**
+**Eww, that's so gross! Why would you eat that?**
 
 > 으악, 진짜 역겨워! 그걸 왜 먹는 거야?
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- The bathroom in the old gas station was really **"gross"** (그 낡은 주유소의 화장실은 정말 지저분하고 역겨웠어요).
+- The bathroom in the old gas station was really **gross** (그 낡은 주유소의 화장실은 정말 지저분하고 역겨웠어요).
 
-- He made a **"gross"** joke that nobody found funny (그는 아무도 재미있어하지 않는 저속한 농담을 했어요).
+- He made a **gross** joke that nobody found funny (그는 아무도 재미있어하지 않는 저속한 농담을 했어요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

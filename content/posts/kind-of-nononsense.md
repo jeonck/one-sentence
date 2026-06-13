@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"Our new principal is kind of no-nonsense, but she's very fair."**
+**Our new principal is kind of no-nonsense, but she's very fair.**
 
 > 우리 새 교장 선생님은 꽤 단호하고 엄격하시지만, 아주 공정하세요.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- I like his **"no-nonsense"** approach to solving problems (나는 문제를 해결하는 그의 실무적이고 효율적인 방식이 마음에 들어요).
+- I like his **no-nonsense** approach to solving problems (나는 문제를 해결하는 그의 실무적이고 효율적인 방식이 마음에 들어요).
 
-- She's a **"no-nonsense"** type of person who gets straight to the point (그녀는 군더더기 없이 바로 본론으로 들어가는 단호한 스타일의 사람이에요).
+- She's a **no-nonsense** type of person who gets straight to the point (그녀는 군더더기 없이 바로 본론으로 들어가는 단호한 스타일의 사람이에요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"We had a long drive home after the holiday party."**
+**We had a long drive home after the holiday party.**
 
 > 파티가 끝나고 집으로 돌아오는 길은 꽤 길었어요.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- I'm exhausted from the **"a long drive home"** (집까지 오랫동안 운전해서 너무 피곤해요).
+- I'm exhausted from the **a long drive home** (집까지 오랫동안 운전해서 너무 피곤해요).
 
-- The **"a long drive home"** gave us time to talk about the trip (집으로 오는 긴 운전 시간 덕분에 여행에 대해 이야기할 수 있었어요).
+- The **a long drive home** gave us time to talk about the trip (집으로 오는 긴 운전 시간 덕분에 여행에 대해 이야기할 수 있었어요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

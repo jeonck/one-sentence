@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"I'd love to go with you, but the thing is, I already have plans."**
+**I'd love to go with you, but the thing is, I already have plans.**
 
 > 당신과 같이 가고 싶지만, 문제는 제가 이미 선약이 있다는 거예요.
 
@@ -21,10 +21,10 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- **"The thing is"**, we don't have enough budget for this project.
+- **The thing is**, we don't have enough budget for this project.
   (문제는 뭐냐면, 우리가 이 프로젝트를 위한 예산이 부족하다는 거예요.)
 
-- I understand your point, but **"the thing is"**, it's not that simple.
+- I understand your point, but **the thing is**, it's not that simple.
   (무슨 말씀인지 알겠지만, 문제는 이게 그렇게 간단하지 않다는 거예요.)
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"Children often act out when they don't get enough attention."**
+**Children often act out when they don't get enough attention.**
 
 > 아이들은 충분한 관심을 받지 못할 때 종종 말썽을 피워요.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- He started to **"act out"** because he was frustrated with his grades (그는 성적 때문에 답답해서 반항적인 행동을 하기 시작했어요).
+- He started to **act out** because he was frustrated with his grades (그는 성적 때문에 답답해서 반항적인 행동을 하기 시작했어요).
 
-- It's common for kids to **"act out"** after their parents' divorce (부모님의 이혼 후에 아이들이 문제 행동을 보이는 것은 흔한 일이에요).
+- It's common for kids to **act out** after their parents' divorce (부모님의 이혼 후에 아이들이 문제 행동을 보이는 것은 흔한 일이에요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

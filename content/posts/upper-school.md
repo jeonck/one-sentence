@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"My sister is starting upper school this autumn."**
+**My sister is starting upper school this autumn.**
 
 > 제 여동생은 이번 가을에 초등학교 고학년 과정을 시작해요.
 
@@ -21,10 +21,10 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- The curriculum in **"the upper school"** is much more challenging.
+- The curriculum in **the upper school** is much more challenging.
   (고학년 과정의 커리큘럼은 훨씬 더 도전적입니다.)
 
-- **"The upper school"** students have their own lounge.
+- **The upper school** students have their own lounge.
   (고학년 학생들은 그들만의 휴게실이 있습니다.)
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

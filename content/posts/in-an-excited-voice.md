@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"She told us the good news in an excited voice."**
+**She told us the good news in an excited voice.**
 
 > 그녀는 흥분한 목소리로 우리에게 기쁜 소식을 전해 주었어요.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- The kids were talking about the field trip **"in an excited voice"** (아이들은 흥분한 목소리로 현장 체험 학습에 대해 이야기하고 있었어요).
+- The kids were talking about the field trip **in an excited voice** (아이들은 흥분한 목소리로 현장 체험 학습에 대해 이야기하고 있었어요).
 
-- 'I won!' he shouted **"in an excited voice"** ("내가 이겼어!" 그가 들뜬 목소리로 소리쳤어요).
+- 'I won!' he shouted **in an excited voice** ("내가 이겼어!" 그가 들뜬 목소리로 소리쳤어요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"He's always kind of grumpy in the morning before he has his coffee."**
+**He's always kind of grumpy in the morning before he has his coffee.**
 
 > 그는 아침에 커피를 마시기 전에는 항상 좀 심술이 나 있어요.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- The bus driver was **"kind of grumpy"** today because of the traffic (버스 기사님은 오늘 교통 체증 때문에 좀 무뚝뚝하셨어요).
+- The bus driver was **kind of grumpy** today because of the traffic (버스 기사님은 오늘 교통 체증 때문에 좀 무뚝뚝하셨어요).
 
-- Don't mind him; he's just feeling **"kind of grumpy"** because he didn't sleep well (신경 쓰지 마. 잠을 잘 못 자서 그냥 기분이 좀 안 좋은 것뿐이야).
+- Don't mind him; he's just feeling **kind of grumpy** because he didn't sleep well (신경 쓰지 마. 잠을 잘 못 자서 그냥 기분이 좀 안 좋은 것뿐이야).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

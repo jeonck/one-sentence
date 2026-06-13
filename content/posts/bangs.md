@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"She decided to cut her bangs to change her look."**
+**She decided to cut her bangs to change her look.**
 
 > 그녀는 분위기를 바꾸기 위해 앞머리를 자르기로 했어요.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- I think you would look great with **"bangs"** (넌 앞머리가 있으면 정말 잘 어울릴 것 같아).
+- I think you would look great with **bangs** (넌 앞머리가 있으면 정말 잘 어울릴 것 같아).
 
-- My **"bangs"** are getting so long they're covering my eyes (앞머리가 너무 길어서 눈을 가리고 있어요).
+- My **bangs** are getting so long they're covering my eyes (앞머리가 너무 길어서 눈을 가리고 있어요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

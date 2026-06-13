@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"Are you still mad about what I said yesterday?"**
+**Are you still mad about what I said yesterday?**
 
 > 어제 내가 한 말 때문에 아직도 화가 나 있니?
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- She's **"mad about"** the fact that she wasn't invited to the party (그녀는 파티에 초대받지 못했다는 사실에 화가 나 있어요).
+- She's **mad about** the fact that she wasn't invited to the party (그녀는 파티에 초대받지 못했다는 사실에 화가 나 있어요).
 
-- There's no point in staying **"mad about"** things you can't change (바꿀 수 없는 일들에 대해 계속 화를 내고 있을 필요는 없어요).
+- There's no point in staying **mad about** things you can't change (바꿀 수 없는 일들에 대해 계속 화를 내고 있을 필요는 없어요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

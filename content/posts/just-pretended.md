@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"I didn't want to hurt his feelings, so I just pretended to be happy."**
+**I didn't want to hurt his feelings, so I just pretended to be happy.**
 
 > 그의 기분을 상하게 하고 싶지 않아서 그냥 행복한 척했어요.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- She **"just pretended"** she didn't hear the mean comment (그녀는 그 못된 말을 못 들은 척했어요).
+- She **just pretended** she didn't hear the mean comment (그녀는 그 못된 말을 못 들은 척했어요).
 
-- He's not actually sick; he **"just pretended"** so he could stay home (그는 진짜 아픈 게 아니라, 그냥 집에 있으려고 아픈 척한 거예요).
+- He's not actually sick; he **just pretended** so he could stay home (그는 진짜 아픈 게 아니라, 그냥 집에 있으려고 아픈 척한 거예요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

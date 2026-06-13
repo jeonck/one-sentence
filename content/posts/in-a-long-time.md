@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"That was the best meal I've had in a long time."**
+**That was the best meal I've had in a long time.**
 
 > 정말 오랜만에 먹어본 최고의 식사였어요.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- I haven't seen him **"in a long time"** (그를 오랫동안 보지 못했어요).
+- I haven't seen him **in a long time** (그를 오랫동안 보지 못했어요).
 
-- It's the first time I've felt this happy **"in a long time"** (이렇게 행복하다고 느낀 건 정말 오랜만이에요).
+- It's the first time I've felt this happy **in a long time** (이렇게 행복하다고 느낀 건 정말 오랜만이에요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

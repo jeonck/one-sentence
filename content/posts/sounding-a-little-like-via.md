@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"You're sounding a little like Via when you talk about the rules."**
+**You're sounding a little like Via when you talk about the rules.**
 
 > 네가 규칙에 대해 말할 때 비아랑 말투가 비슷하게 들려요.
 
@@ -21,10 +21,10 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- He was **"sounding a little like"** his father as he lectured his younger brother.
+- He was **sounding a little like** his father as he lectured his younger brother.
   (그는 남동생에게 훈계할 때 아버지와 말투가 약간 비슷하게 들렸습니다.)
 
-- Stop **"sounding a little like"** a teacher and just talk to me as a friend.
+- Stop **sounding a little like** a teacher and just talk to me as a friend.
   (선생님 같은 말투 그만하고 그냥 친구로서 나랑 얘기해.)
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

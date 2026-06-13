@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"He came home from work and plopped himself down on the sofa."**
+**He came home from work and plopped himself down on the sofa.**
 
 > 그는 퇴근하고 돌아와 소파에 털썩 주저앉았어요.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- A single raindrop **"plopped"** onto the windowpane (빗방울 하나가 창문에 툭 떨어졌어요).
+- A single raindrop **plopped** onto the windowpane (빗방울 하나가 창문에 툭 떨어졌어요).
 
-- She **"plopped"** the ice cubes into her glass of water (그녀는 물컵에 얼음을 퐁당 떨어뜨렸어요).
+- She **plopped** the ice cubes into her glass of water (그녀는 물컵에 얼음을 퐁당 떨어뜨렸어요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

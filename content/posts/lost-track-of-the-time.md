@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"I'm sorry I'm late; I was reading and completely lost track of the time."**
+**I'm sorry I'm late; I was reading and completely lost track of the time.**
 
 > 늦어서 죄송해요. 책을 읽다가 시간 가는 줄 전혀 몰랐어요.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- We were having such a good conversation that we **"lost track of the time"** (우리는 대화가 너무 즐거워서 시간 가는 줄 몰랐어요).
+- We were having such a good conversation that we **lost track of the time** (우리는 대화가 너무 즐거워서 시간 가는 줄 몰랐어요).
 
-- It's easy to **"lose track of the time"** when you're playing video games (비디오 게임을 하다 보면 시간 가는 줄 모르기 쉬워요).
+- It's easy to **lose track of the time** when you're playing video games (비디오 게임을 하다 보면 시간 가는 줄 모르기 쉬워요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

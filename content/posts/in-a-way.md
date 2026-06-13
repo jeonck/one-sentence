@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"In a way, I'm glad we didn't go to the party."**
+**In a way, I'm glad we didn't go to the party.**
 
 > 어떤 면에서는 우리가 파티에 안 가서 다행이야.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- He was right, **"in a way"** , even if I didn't want to admit it (인정하고 싶지는 않았지만, 어떤 면에서는 그가 옳았어요).
+- He was right, **in a way** , even if I didn't want to admit it (인정하고 싶지는 않았지만, 어떤 면에서는 그가 옳았어요).
 
-- The rain was good for the garden, **"in a way"** (어느 정도는 비가 정원에 도움이 되었어요).
+- The rain was good for the garden, **in a way** (어느 정도는 비가 정원에 도움이 되었어요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

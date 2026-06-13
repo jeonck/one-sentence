@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"The teacher will take attendance before we start the class."**
+**The teacher will take attendance before we start the class.**
 
 > 수업을 시작하기 전에 선생님께서 출석을 부르실 거예요.
 
@@ -21,10 +21,10 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- Does the professor **"take attendance"** every day?
+- Does the professor **take attendance** every day?
   (교수님이 매일 출석을 부르시나요?)
 
-- I'll wait for the coach to **"take attendance"** before I head to the field.
+- I'll wait for the coach to **take attendance** before I head to the field.
   (경기장으로 가기 전에 코치님이 출석 부르는 것을 기다릴게요.)
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

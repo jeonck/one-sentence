@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"My grandmother sat next to me, gently patting my knee while I told her the story."**
+**My grandmother sat next to me, gently patting my knee while I told her the story.**
 
 > 할머니는 내가 이야기를 하는 동안 내 옆에 앉아 무릎을 부드럽게 토닥여 주셨어요.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- He was **"patting his knee"** in time with the music (그는 음악에 맞춰 자신의 무릎을 탁탁 치고 있었어요).
+- He was **patting his knee** in time with the music (그는 음악에 맞춰 자신의 무릎을 탁탁 치고 있었어요).
 
-- She kept **"patting my knee"** to reassure me that everything would be okay (그녀는 모든 게 괜찮을 거라며 내 무릎을 계속 다독여 주었어요).
+- She kept **patting my knee** to reassure me that everything would be okay (그녀는 모든 게 괜찮을 거라며 내 무릎을 계속 다독여 주었어요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

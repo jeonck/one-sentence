@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"We talked about music, movies, and stuff like that."**
+**We talked about music, movies, and stuff like that.**
 
 > 우리는 음악이랑 영화, 그리고 그런 것들에 대해 이야기했어요.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- I like hiking, camping, **"and stuff like that"** (나는 등산, 캠핑 같은 것들을 좋아해요).
+- I like hiking, camping, **and stuff like that** (나는 등산, 캠핑 같은 것들을 좋아해요).
 
-- She told me about her travels **"and stuff like that"** (그녀는 여행이나 기타 등등에 대해 말해주었어요).
+- She told me about her travels **and stuff like that** (그녀는 여행이나 기타 등등에 대해 말해주었어요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

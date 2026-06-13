@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"I dare you to jump into the cold pool!"**
+**I dare you to jump into the cold pool!**
 
 > "어디 한번 저 차가운 수영장에 뛰어들어 봐!"
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- He **"dared me to"** eat the spiciest pepper on the plate (그는 나에게 접시에 있는 가장 매운 고추를 먹어보라고 부추겼어요).
+- He **dared me to** eat the spiciest pepper on the plate (그는 나에게 접시에 있는 가장 매운 고추를 먹어보라고 부추겼어요).
 
-- My friends **"dared me to"** call my crush and tell her the truth (친구들은 나에게 좋아하는 애한테 전화해서 진실을 말해보라고 부추겼어요).
+- My friends **dared me to** call my crush and tell her the truth (친구들은 나에게 좋아하는 애한테 전화해서 진실을 말해보라고 부추겼어요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

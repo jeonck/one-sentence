@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"I was late for class because I forgot my combination and couldn't open my locker."**
+**I was late for class because I forgot my combination and couldn't open my locker.**
 
 > 사물함 비밀번호를 잊어버려서 못 여는 바람에 수업에 늦었어요.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- Can you help me? **"I forgot my combination"** again (좀 도와줄래? 비밀번호를 또 잊어버렸어).
+- Can you help me? **I forgot my combination** again (좀 도와줄래? 비밀번호를 또 잊어버렸어).
 
-- It's embarrassing when you **"forget your combination"** in front of everyone (모두가 보는 앞에서 비밀번호를 잊어버리면 정말 당황스러워요).
+- It's embarrassing when you **forget your combination** in front of everyone (모두가 보는 앞에서 비밀번호를 잊어버리면 정말 당황스러워요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

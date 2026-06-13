@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"We drove over to the lake to watch the sunset."**
+**We drove over to the lake to watch the sunset.**
 
 > 우리는 일몰을 보기 위해 호수로 차를 몰고 갔어요.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- My mom **"drove over to"** my house to bring me some soup (엄마는 나에게 수프를 가져다주려고 우리 집으로 차를 몰고 오셨어요).
+- My mom **drove over to** my house to bring me some soup (엄마는 나에게 수프를 가져다주려고 우리 집으로 차를 몰고 오셨어요).
 
-- Let's **"drive over to"** the new mall this weekend (이번 주말에 그 새 쇼핑몰로 차를 몰고 가보자).
+- Let's **drive over to** the new mall this weekend (이번 주말에 그 새 쇼핑몰로 차를 몰고 가보자).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

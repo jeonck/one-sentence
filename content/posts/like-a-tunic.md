@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"The shirt was so long on her that it looked like a tunic."**
+**The shirt was so long on her that it looked like a tunic.**
 
 > 셔츠가 그녀에게 너무 길어서 마치 튜닉처럼 보였어요.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- She wore a belt over the oversized sweater to make it look **"like a tunic"** (그녀는 오버사이즈 스웨터 위에 벨트를 매서 튜닉처럼 보이게 연출했어요).
+- She wore a belt over the oversized sweater to make it look **like a tunic** (그녀는 오버사이즈 스웨터 위에 벨트를 매서 튜닉처럼 보이게 연출했어요).
 
-- In ancient times, both men and women wore garments **"like a tunic"** (고대에는 남녀 모두 튜닉 같은 옷을 입었어요).
+- In ancient times, both men and women wore garments **like a tunic** (고대에는 남녀 모두 튜닉 같은 옷을 입었어요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

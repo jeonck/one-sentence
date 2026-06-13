@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"I was going to stay home, but guess what? I got tickets to the concert!"**
+**I was going to stay home, but guess what? I got tickets to the concert!**
 
 > 집에 있으려고 했는데, 근데 있잖아? 콘서트 티켓을 구했어!
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- He said he was too busy, **"but guess what?"** I saw him at the mall (그는 너무 바쁘다고 했지만, 근데 있잖아? 쇼핑몰에서 그를 봤어).
+- He said he was too busy, **but guess what?** I saw him at the mall (그는 너무 바쁘다고 했지만, 근데 있잖아? 쇼핑몰에서 그를 봤어).
 
-- I thought I lost my phone, **"but guess what?"** It was in my pocket the whole time (내 휴대폰을 잃어버린 줄 알았는데, 근데 있잖아? 계속 주머니 속에 있었어).
+- I thought I lost my phone, **but guess what?** It was in my pocket the whole time (내 휴대폰을 잃어버린 줄 알았는데, 근데 있잖아? 계속 주머니 속에 있었어).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

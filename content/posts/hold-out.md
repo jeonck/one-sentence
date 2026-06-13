@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"How much longer can they hold out without water?"**
+**How much longer can they hold out without water?**
 
 > 물 없이 얼마나 더 버틸 수 있을까요?
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- He **"held out"** his hand to help her up (그는 그녀를 일으켜 세워주려고 손을 내밀었어요).
+- He **held out** his hand to help her up (그는 그녀를 일으켜 세워주려고 손을 내밀었어요).
 
-- We should **"hold out"** for a better offer (우리는 더 좋은 제안이 올 때까지 기다려야 해요).
+- We should **hold out** for a better offer (우리는 더 좋은 제안이 올 때까지 기다려야 해요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

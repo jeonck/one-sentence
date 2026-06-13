@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"I could tell she was lying just by looking at her eyes."**
+**I could tell she was lying just by looking at her eyes.**
 
 > 눈만 봐도 그녀가 거짓말을 하고 있다는 걸 알 수 있었어요.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- **"I could tell"** it was going to rain soon (곧 비가 올 거라는 걸 알 수 있었어요).
+- **I could tell** it was going to rain soon (곧 비가 올 거라는 걸 알 수 있었어요).
 
-- She was upset, **"I could tell"** from the way she slammed the door (그녀가 문을 쾅 닫는 걸 보고 화가 났다는 걸 눈치챘어요).
+- She was upset, **I could tell** from the way she slammed the door (그녀가 문을 쾅 닫는 걸 보고 화가 났다는 걸 눈치챘어요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

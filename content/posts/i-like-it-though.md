@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"It's a bit small, but I like it, though."**
+**It's a bit small, but I like it, though.**
 
 > 조금 작긴 하지만, 그래도 난 이게 좋아.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- The movie was kind of weird, but **"I liked it, though"** (영화가 좀 이상하긴 했지만, 그래도 난 좋았어).
+- The movie was kind of weird, but **I liked it, though** (영화가 좀 이상하긴 했지만, 그래도 난 좋았어).
 
-- It's noisy here, but **"I like the atmosphere, though"** (여긴 시끄럽지만, 그래도 분위기는 마음에 들어).
+- It's noisy here, but **I like the atmosphere, though** (여긴 시끄럽지만, 그래도 분위기는 마음에 들어).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

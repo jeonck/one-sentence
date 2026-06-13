@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"How would I know where she went? I just got here."**
+**How would I know where she went? I just got here.**
 
 > 그녀가 어디 갔는지 내가 어떻게 알아? 나도 방금 왔는데.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- **"How would I know"** if the store is open today? (그 가게가 오늘 여는지 내가 어떻게 알겠어?)
+- **How would I know** if the store is open today? (그 가게가 오늘 여는지 내가 어떻게 알겠어?)
 
-- You're asking me why he's mad? **"How would I know?"** (그가 왜 화났는지 나한테 묻는 거야? 내가 어떻게 알아?)
+- You're asking me why he's mad? **How would I know?** (그가 왜 화났는지 나한테 묻는 거야? 내가 어떻게 알아?)
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

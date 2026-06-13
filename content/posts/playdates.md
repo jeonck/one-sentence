@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"Auggie didn't have many playdates when he was younger."**
+**Auggie didn't have many playdates when he was younger.**
 
 > 어기(Auggie)는 어렸을 때 친구들과 노는 약속이 많지 않았어요.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- My daughter has two **"playdates"** scheduled for this weekend (우리 딸은 이번 주말에 두 번의 놀이 약속이 잡혀 있어요).
+- My daughter has two **playdates** scheduled for this weekend (우리 딸은 이번 주말에 두 번의 놀이 약속이 잡혀 있어요).
 
-- We met through our kids' **"playdates"** and became close friends (우리는 아이들의 놀이 약속을 통해 만나서 친한 친구가 되었어요).
+- We met through our kids' **playdates** and became close friends (우리는 아이들의 놀이 약속을 통해 만나서 친한 친구가 되었어요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

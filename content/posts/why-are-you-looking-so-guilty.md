@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"You haven't even said a word. Why are you looking so guilty?"**
+**You haven't even said a word. Why are you looking so guilty?**
 
 > 한마디도 안 하고 있잖아. 왜 그렇게 죄책감 느끼는 표정이야?
 
@@ -21,10 +21,10 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- **"Why are you looking so guilty"**? Did you break something?
+- **Why are you looking so guilty**? Did you break something?
   (왜 그렇게 죄책감 느끼는 표정이야? 뭐 부수기라도 했어?)
 
-- He asked me, **"Why are you looking so guilty"** after I arrived late.
+- He asked me, **Why are you looking so guilty** after I arrived late.
   (내가 늦게 도착하자 그는 나에게 "왜 그렇게 미안해하는 표정이야?"라고 물었습니다.)
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

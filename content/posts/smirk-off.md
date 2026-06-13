@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"The teacher's stern look finally wiped the smirk off his face."**
+**The teacher's stern look finally wiped the smirk off his face.**
 
 > 선생님의 엄격한 표정이 마침내 그의 얼굴에서 비웃음을 거두게 했어요.
 
@@ -21,10 +21,10 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- You'd better take that **"smirk off"** your face before you get into trouble.
+- You'd better take that **smirk off** your face before you get into trouble.
   (혼나기 전에 그 비웃는 표정 좀 치워.)
 
-- He couldn't keep the **"smirk off"** his face when he heard the news.
+- He couldn't keep the **smirk off** his face when he heard the news.
   (그는 그 소식을 들었을 때 비웃음을 거둘 수가 없었습니다.)
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

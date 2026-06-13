@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"People used to stare at my scars, but I never minded."**
+**People used to stare at my scars, but I never minded.**
 
 > 사람들이 내 흉터를 빤히 쳐다보곤 했지만, 난 전혀 신경 쓰지 않았어.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- **"I never minded"** helping out with the extra work (추가 업무를 돕는 건 전혀 상관없었어요).
+- **I never minded** helping out with the extra work (추가 업무를 돕는 건 전혀 상관없었어요).
 
-- Even though it was raining, **"I never minded"** walking home (비가 오고 있었지만, 집까지 걸어가는 건 전혀 개의치 않았어요).
+- Even though it was raining, **I never minded** walking home (비가 오고 있었지만, 집까지 걸어가는 건 전혀 개의치 않았어요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

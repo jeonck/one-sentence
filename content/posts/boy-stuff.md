@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"They spent the whole afternoon playing with LEGOs and doing other boy stuff."**
+**They spent the whole afternoon playing with LEGOs and doing other boy stuff.**
 
 > 그들은 오후 내내 레고를 가지고 놀며 다른 남자애들이 하는 것들을 했어요.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- I'm not really into **"boy stuff"** like sports or video games (나는 스포츠나 비디오 게임 같은 남자애들이 하는 것들에는 별로 관심이 없어요).
+- I'm not really into **boy stuff** like sports or video games (나는 스포츠나 비디오 게임 같은 남자애들이 하는 것들에는 별로 관심이 없어요).
 
-- The garage is full of his tools and other **"boy stuff"** (차고는 그의 공구들과 다른 남자들의 물건들로 가득 차 있어요).
+- The garage is full of his tools and other **boy stuff** (차고는 그의 공구들과 다른 남자들의 물건들로 가득 차 있어요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

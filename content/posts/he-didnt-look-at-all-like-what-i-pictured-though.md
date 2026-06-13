@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"He was much taller than I expected. He didn't look at all like what I pictured, though."**
+**He was much taller than I expected. He didn't look at all like what I pictured, though.**
 
 > 그는 생각했던 것보다 훨씬 컸어요. 하지만 그는 내가 상상했던 모습과는 전혀 딴판이었죠.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- The main character in the movie **"didn't look at all like what I pictured"** while reading the book (영화 속 주인공은 책을 읽으며 상상했던 모습과는 전혀 달랐어요).
+- The main character in the movie **didn't look at all like what I pictured** while reading the book (영화 속 주인공은 책을 읽으며 상상했던 모습과는 전혀 달랐어요).
 
-- I finally met my online friend, and **"he didn't look at all like what I pictured, though"** (드디어 온라인 친구를 만났는데, 그는 내가 상상했던 모습과는 전혀 딴판이었어요).
+- I finally met my online friend, and **he didn't look at all like what I pictured, though** (드디어 온라인 친구를 만났는데, 그는 내가 상상했던 모습과는 전혀 딴판이었어요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

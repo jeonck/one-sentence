@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"My bike is broken, but it could be worse, though; I didn't get hurt."**
+**My bike is broken, but it could be worse, though; I didn't get hurt.**
 
 > 자전거가 고장 났지만, 그래도 더 나쁠 수도 있었어. 난 안 다쳤잖아.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- We lost the game, but **"it could be worse, though"** (경기에서 졌지만, 그래도 더 나쁠 수도 있었어요).
+- We lost the game, but **it could be worse, though** (경기에서 졌지만, 그래도 더 나쁠 수도 있었어요).
 
-- It's raining on our vacation, but **"it could be worse, though"** (휴가 중에 비가 오지만, 그래도 이만하길 다행이에요).
+- It's raining on our vacation, but **it could be worse, though** (휴가 중에 비가 오지만, 그래도 이만하길 다행이에요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

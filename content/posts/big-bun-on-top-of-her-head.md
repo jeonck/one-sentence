@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"She wore her hair in a big bun on top of her head."**
+**She wore her hair in a big bun on top of her head.**
 
 > 그녀는 머리를 꼭대기에 큰 똥머리로 틀어 올렸어요.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- The teacher always had a **"big bun on top of her head"** (선생님은 항상 머리를 위로 크게 틀어 올리고 계셨어요).
+- The teacher always had a **big bun on top of her head** (선생님은 항상 머리를 위로 크게 틀어 올리고 계셨어요).
 
-- It's easy to just put a **"big bun on top of your head"** when you're busy (바쁠 때는 그냥 머리 위로 크게 똥머리를 만드는 게 편해요).
+- It's easy to just put a **big bun on top of your head** when you're busy (바쁠 때는 그냥 머리 위로 크게 똥머리를 만드는 게 편해요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"I think this job would be a really good fit for you."**
+**I think this job would be a really good fit for you.**
 
 > 이 직업이 당신에게 정말 잘 맞을 것 같아요.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- That blue sweater is a **"good fit for you"** ; it matches your eyes (그 파란색 스웨터가 너한테 참 잘 어울려. 네 눈동자 색이랑 비슷해).
+- That blue sweater is a **good fit for you** ; it matches your eyes (그 파란색 스웨터가 너한테 참 잘 어울려. 네 눈동자 색이랑 비슷해).
 
-- We need to find a school that is a **"good fit for"** your learning style (너의 학습 스타일에 잘 맞는 학교를 찾아야 해).
+- We need to find a school that is a **good fit for** your learning style (너의 학습 스타일에 잘 맞는 학교를 찾아야 해).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"Don't get all worked up over such a small problem."**
+**Don't get all worked up over such a small problem.**
 
 > 그렇게 작은 문제로 너무 흥분하지 마세요.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- He **"gets all worked up"** whenever anyone mentions politics (그는 누가 정치 이야기만 꺼내면 몹시 흥분해요).
+- He **gets all worked up** whenever anyone mentions politics (그는 누가 정치 이야기만 꺼내면 몹시 흥분해요).
 
-- I didn't mean to make you **"get all worked up"** ; I was just joking (널 그렇게 화나게 하려던 건 아니었어. 그냥 농담이었어).
+- I didn't mean to make you **get all worked up** ; I was just joking (널 그렇게 화나게 하려던 건 아니었어. 그냥 농담이었어).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"He acted totally normally, as if nothing had happened."**
+**He acted totally normally, as if nothing had happened.**
 
 > 그는 마치 아무 일도 없었던 것처럼 완전히 평범하게 행동했어요.
 
@@ -21,10 +21,10 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- Even though she was nervous, she spoke **"totally normally"**.
+- Even though she was nervous, she spoke **totally normally**.
   (그는 긴장했음에도 불구하고 완전히 평범하게 말했습니다.)
 
-- The computer is functioning **"totally normally"** now.
+- The computer is functioning **totally normally** now.
   (컴퓨터가 이제는 완전히 정상적으로 작동하고 있습니다.)
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

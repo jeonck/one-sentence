@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"My brother is really into photography these days."**
+**My brother is really into photography these days.**
 
 > 우리 오빠는 요즘 사진 찍는 것에 푹 빠져 있어요.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- What kind of music are you **"into"** ? (어떤 종류의 음악을 좋아하세요?)
+- What kind of music are you **into** ? (어떤 종류의 음악을 좋아하세요?)
 
-- I've been really **"into"** yoga lately (최근에 요가에 아주 푹 빠졌어요).
+- I've been really **into** yoga lately (최근에 요가에 아주 푹 빠졌어요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"It's a bit of a schlep to get to the new campus from here."**
+**It's a bit of a schlep to get to the new campus from here.**
 
 > 여기서 새 캠퍼스까지 가는 건 좀 번거로운 일이에요.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- Going all the way to the airport is **"a bit of a schlep"** (공항까지 가는 건 꽤나 먼 길이에요).
+- Going all the way to the airport is **a bit of a schlep** (공항까지 가는 건 꽤나 먼 길이에요).
 
-- It was **"a bit of a schlep"** , but we finally made it (좀 힘들고 번거로운 길이었지만, 마침내 도착했어요).
+- It was **a bit of a schlep** , but we finally made it (좀 힘들고 번거로운 길이었지만, 마침내 도착했어요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

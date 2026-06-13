@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"I was waiting in line, and that guy just cut right in front of me!"**
+**I was waiting in line, and that guy just cut right in front of me!**
 
 > 줄 서서 기다리고 있었는데, 저 남자가 내 바로 앞으로 끼어들어요!
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- A red car **"cut right in front of me"** without signaling (빨간 차 한 대가 신호도 없이 내 바로 앞으로 끼어들었어요).
+- A red car **cut right in front of me** without signaling (빨간 차 한 대가 신호도 없이 내 바로 앞으로 끼어들었어요).
 
-- Don't **"cut right in front of me"** like that; it's very rude (그렇게 내 앞으로 끼어들지 마세요. 정말 무례하네요).
+- Don't **cut right in front of me** like that; it's very rude (그렇게 내 앞으로 끼어들지 마세요. 정말 무례하네요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

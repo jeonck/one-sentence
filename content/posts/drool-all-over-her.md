@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"The puppy was so excited that he started to drool all over her."**
+**The puppy was so excited that he started to drool all over her.**
 
 > 강아지가 너무 신나서 그녀에게 침을 온통 묻히기 시작했어요.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- The baby fell asleep on my shoulder and **"drooled all over me"** (아기가 내 어깨에서 잠들어 나에게 침을 온통 묻혔어요).
+- The baby fell asleep on my shoulder and **drooled all over me** (아기가 내 어깨에서 잠들어 나에게 침을 온통 묻혔어요).
 
-- Try not to let the dog **"drool all over"** your new sofa (개가 네 새 소파에 침을 온통 묻히지 않게 조심해).
+- Try not to let the dog **drool all over** your new sofa (개가 네 새 소파에 침을 온통 묻히지 않게 조심해).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

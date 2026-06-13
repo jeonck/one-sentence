@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"The CEO greeted everyone with a killer handshake."**
+**The CEO greeted everyone with a killer handshake.**
 
 > CEO는 모든 사람을 아주 힘 있고 인상적인 악수로 맞이했어요.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- Watch out for him; he's got a **"killer handshake"** that might crush your fingers (그 사람 조심해. 손가락이 부러질 정도로 꽉 쥐는 악수를 하거든).
+- Watch out for him; he's got a **killer handshake** that might crush your fingers (그 사람 조심해. 손가락이 부러질 정도로 꽉 쥐는 악수를 하거든).
 
-- A **"killer handshake"** can make a great first impression during an interview (강렬하고 자신감 넘치는 악수는 면접에서 좋은 첫인상을 줄 수 있어요).
+- A **killer handshake** can make a great first impression during an interview (강렬하고 자신감 넘치는 악수는 면접에서 좋은 첫인상을 줄 수 있어요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

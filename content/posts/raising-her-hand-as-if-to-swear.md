@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"She said she was telling the truth, raising her hand as if to swear."**
+**She said she was telling the truth, raising her hand as if to swear.**
 
 > 그녀는 마치 선서하듯 손을 들며 자신이 진실을 말하고 있다고 했어요.
 
@@ -21,10 +21,10 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- He promised he wouldn't tell anyone, **"raising his hand as if to swear"**.
+- He promised he wouldn't tell anyone, **raising his hand as if to swear**.
   (그는 마치 선서하듯 손을 들며 아무에게도 말하지 않겠다고 약속했습니다.)
 
-- **"Raising her hand as if to swear"**, she looked me straight in the eye.
+- **Raising her hand as if to swear**, she looked me straight in the eye.
   (마치 선서하듯 손을 들며 그녀는 내 눈을 똑바로 쳐다보았습니다.)
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"Here's the thing: I really want to go, but I don't have enough money."**
+**Here's the thing: I really want to go, but I don't have enough money.**
 
 > 있잖아, 실은 이래. 정말 가고 싶은데 돈이 충분하지 않아.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- **"Here's the thing:"** we need to finish this project by tomorrow (중요한 건 이거야. 우리 내일까지 이 프로젝트를 끝내야 해).
+- **Here's the thing:** we need to finish this project by tomorrow (중요한 건 이거야. 우리 내일까지 이 프로젝트를 끝내야 해).
 
-- I know you're busy, but **"here's the thing:"** this is really important (바쁘신 건 알지만, 있잖아요, 이게 정말 중요한 일이에요).
+- I know you're busy, but **here's the thing:** this is really important (바쁘신 건 알지만, 있잖아요, 이게 정말 중요한 일이에요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

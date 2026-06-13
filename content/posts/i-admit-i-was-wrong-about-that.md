@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"You were right about the movie; I admit I was wrong about that."**
+**You were right about the movie; I admit I was wrong about that.**
 
 > 영화에 대해서는 네 말이 맞았어. 내가 틀렸다는 걸 인정해.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- I thought he was mean, but **"I admit I was wrong about that"** (그가 못된 사람인 줄 알았는데, 내가 잘못 생각했다는 걸 인정해요).
+- I thought he was mean, but **I admit I was wrong about that** (그가 못된 사람인 줄 알았는데, 내가 잘못 생각했다는 걸 인정해요).
 
-- Okay, **"I admit I was wrong about that"** specific detail (좋아요, 그 세부 사항에 대해서는 제가 틀렸음을 인정합니다).
+- Okay, **I admit I was wrong about that** specific detail (좋아요, 그 세부 사항에 대해서는 제가 틀렸음을 인정합니다).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

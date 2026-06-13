@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"Please don't be mad at me, but I accidentally broke your favorite vase."**
+**Please don't be mad at me, but I accidentally broke your favorite vase.**
 
 > 제발 나한테 화내지 마, 근데 실수로 네가 제일 아끼는 꽃병을 깨뜨렸어.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- I forgot our anniversary; please **"don't be mad at me"** (우리 기념일을 잊어버렸어. 나한테 화내지 마).
+- I forgot our anniversary; please **don't be mad at me** (우리 기념일을 잊어버렸어. 나한테 화내지 마).
 
-- **"Don't be mad at me"** for telling you the truth (너한테 진실을 말했다고 해서 나한테 화내지 마).
+- **Don't be mad at me** for telling you the truth (너한테 진실을 말했다고 해서 나한테 화내지 마).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

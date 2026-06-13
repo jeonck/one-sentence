@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"Mom gave Daddy a 'look' when he tried to take another piece of cake."**
+**Mom gave Daddy a 'look' when he tried to take another piece of cake.**
 
 > 아빠가 케이크를 한 조각 더 먹으려 하자 엄마가 아빠에게 눈총을 주었어요.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- Via **"gave Daddy a look"** that said he should stop talking (비아는 아빠에게 이제 그만 말하라는 듯한 눈길을 보냈어요).
+- Via **gave Daddy a look** that said he should stop talking (비아는 아빠에게 이제 그만 말하라는 듯한 눈길을 보냈어요).
 
-- When the dog started barking, she **"gave Daddy a look"** of annoyance (개가 짖기 시작하자, 그녀는 아빠에게 짜증 섞인 눈빛을 보냈어요).
+- When the dog started barking, she **gave Daddy a look** of annoyance (개가 짖기 시작하자, 그녀는 아빠에게 짜증 섞인 눈빛을 보냈어요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

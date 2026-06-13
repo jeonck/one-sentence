@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"The child was tugging at her pocketbook, asking for a candy."**
+**The child was tugging at her pocketbook, asking for a candy.**
 
 > 아이는 사탕을 사달라고 떼를 쓰며 그녀의 핸드백을 잡아당기고 있었어요.
 
@@ -21,10 +21,10 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- I felt someone **"tugging at my pocketbook"** in the crowded subway.
+- I felt someone **tugging at my pocketbook** in the crowded subway.
   (붐비는 지하철에서 누군가 내 핸드백을 잡아당기는 것을 느꼈습니다.)
 
-- She kept **"tugging at her pocketbook"** as she waited nervously for the bus.
+- She kept **tugging at her pocketbook** as she waited nervously for the bus.
   (그녀는 초조하게 버스를 기다리며 계속 자신의 핸드백을 잡아당겼습니다.)
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

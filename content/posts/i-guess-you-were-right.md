@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"I guess you were right about the weather; it started raining."**
+**I guess you were right about the weather; it started raining.**
 
 > 날씨에 대해서는 네 말이 맞았던 것 같아. 비가 오기 시작하네.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- I didn't believe you at first, but **"I guess you were right"** (처음엔 네 말을 안 믿었는데, 네 말이 맞았던 것 같아).
+- I didn't believe you at first, but **I guess you were right** (처음엔 네 말을 안 믿었는데, 네 말이 맞았던 것 같아).
 
-- **"I guess you were right"** ; this restaurant is actually pretty good (네 말이 맞았네. 이 식당 정말 괜찮다).
+- **I guess you were right** ; this restaurant is actually pretty good (네 말이 맞았네. 이 식당 정말 괜찮다).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

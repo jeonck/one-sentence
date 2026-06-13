@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"I was walking in the dark and happened to stumble over a loose rock."**
+**I was walking in the dark and happened to stumble over a loose rock.**
 
 > 어둠 속을 걷다가 우연히 흔들리는 돌에 발을 헛디뎠어요.
 
@@ -21,10 +21,10 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- He was so tired that he began to **"stumble"** as he walked.
+- He was so tired that he began to **stumble** as he walked.
   (그는 너무 피곤해서 걷다가 비틀거리기 시작했습니다.)
 
-- Be careful not to **"stumble"** on the uneven pavement.
+- Be careful not to **stumble** on the uneven pavement.
   (울퉁불퉁한 보도에서 발을 헛디디지 않도록 조심하세요.)
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

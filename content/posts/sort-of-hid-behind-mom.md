@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"He was so shy that he sort of hid behind Mom when we met the neighbors."**
+**He was so shy that he sort of hid behind Mom when we met the neighbors.**
 
 > 그는 너무 수줍음이 많아서 이웃들을 만났을 때 엄마 뒤로 숨다시피 했어요.
 
@@ -21,10 +21,10 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- The little boy **"sort of hid behind Mom"** when the stranger approached.
+- The little boy **sort of hid behind Mom** when the stranger approached.
   (낯선 사람이 다가오자 어린 소년은 엄마 뒤로 숨다시피 했습니다.)
 
-- I used to **"sort of hide behind Mom"** whenever we went to large gatherings.
+- I used to **sort of hide behind Mom** whenever we went to large gatherings.
   (나는 대규모 모임에 갈 때마다 엄마 뒤로 숨다시피 하곤 했습니다.)
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

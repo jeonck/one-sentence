@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"I forgot about the meeting pretty much totally and completely."**
+**I forgot about the meeting pretty much totally and completely.**
 
 > 나는 그 회의에 대해 거의 완전히, 그야말로 전부 잊어버렸어요.
 
@@ -21,10 +21,10 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- The old house was **"pretty much totally and completely"** destroyed by the storm.
+- The old house was **pretty much totally and completely** destroyed by the storm.
   (그 오래된 집은 폭풍으로 인해 거의 완전히 파괴되었습니다.)
 
-- I've changed my mind **"pretty much totally and completely"** since we last talked.
+- I've changed my mind **pretty much totally and completely** since we last talked.
   (우리가 지난번에 이야기한 이후로 내 마음은 거의 완전히 바뀌었습니다.)
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

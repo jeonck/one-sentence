@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"I told him the news, and he was like, 'No way!'"**
+**I told him the news, and he was like, 'No way!'**
 
 > 내가 그에게 그 소식을 전하자, 그는 "말도 안 돼!"라며 놀라워했어요.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- Then **"he was like"** , 'I can't believe you did that.' (그러더니 그는 '네가 그랬다니 믿을 수 없어'라고 말했어요).
+- Then **he was like** , 'I can't believe you did that.' (그러더니 그는 '네가 그랬다니 믿을 수 없어'라고 말했어요).
 
-- She said hello, and **"he was like"** , just staring at her (그녀가 인사했는데, 그는 그냥 그녀를 쳐다보기만 하더라고요).
+- She said hello, and **he was like** , just staring at her (그녀가 인사했는데, 그는 그냥 그녀를 쳐다보기만 하더라고요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

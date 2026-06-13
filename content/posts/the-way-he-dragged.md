@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"The way he dragged his feet showed how much he didn't want to go."**
+**The way he dragged his feet showed how much he didn't want to go.**
 
 > 그가 발을 질질 끄는 방식은 그가 얼마나 가기 싫어하는지를 보여주었어요.
 
@@ -21,10 +21,10 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- **"The way he dragged"** that heavy suitcase made a loud noise.
+- **The way he dragged** that heavy suitcase made a loud noise.
   (그가 저 무거운 여행 가방을 질질 끄는 방식 때문에 큰 소리가 났습니다.)
 
-- I noticed **"the way he dragged"** his left leg after the injury.
+- I noticed **the way he dragged** his left leg after the injury.
   (부상 이후 그가 왼쪽 다리를 질질 끄는 방식을 알아챘습니다.)
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

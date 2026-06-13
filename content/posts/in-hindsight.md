@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"In hindsight, I should have listened to your advice."**
+**In hindsight, I should have listened to your advice.**
 
 > 지나고 보니 네 조언을 들었어야 했어.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- **"In hindsight"** , it was a very risky decision (뒤돌아보면 그것은 매우 위험한 결정이었어요).
+- **In hindsight** , it was a very risky decision (뒤돌아보면 그것은 매우 위험한 결정이었어요).
 
-- Everything seems so much clearer **"in hindsight"** (지나고 나면 모든 것이 훨씬 더 분명해 보여요).
+- Everything seems so much clearer **in hindsight** (지나고 나면 모든 것이 훨씬 더 분명해 보여요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

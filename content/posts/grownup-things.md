@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"I'm tired of dealing with boring grownup things like bills and taxes."**
+**I'm tired of dealing with boring grownup things like bills and taxes.**
 
 > 청구서나 세금 같은 지루한 어른들의 일들을 처리하는 건 지겨워요.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- When I was a kid, I couldn't wait to do **"grownup things"** (어렸을 때는 어른들의 일을 하는 걸 몹시 기다렸어요).
+- When I was a kid, I couldn't wait to do **grownup things** (어렸을 때는 어른들의 일을 하는 걸 몹시 기다렸어요).
 
-- They were in the kitchen talking about serious **"grownup things"** (그들은 부엌에서 심각한 어른들의 일들에 대해 이야기하고 있었어요).
+- They were in the kitchen talking about serious **grownup things** (그들은 부엌에서 심각한 어른들의 일들에 대해 이야기하고 있었어요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

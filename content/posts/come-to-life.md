@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"The city really comes to life at night with all the neon lights."**
+**The city really comes to life at night with all the neon lights.**
 
 > 도시는 밤이 되면 네온사인과 함께 정말 활기를 띠어요.
 
@@ -21,8 +21,8 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- In the movie, all the toys **"come to life"** when the boy leaves the room (영화에서 소년이 방을 나가면 모든 장난감들이 살아 움직여요).
+- In the movie, all the toys **come to life** when the boy leaves the room (영화에서 소년이 방을 나가면 모든 장난감들이 살아 움직여요).
 
-- The museum exhibits seem to **"come to life"** after dark (박물관 전시물들이 어두워지면 마치 살아나는 것 같아요).
+- The museum exhibits seem to **come to life** after dark (박물관 전시물들이 어두워지면 마치 살아나는 것 같아요).
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

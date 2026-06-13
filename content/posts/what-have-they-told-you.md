@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"I'm curious, what have they told you about the new project?"**
+**I'm curious, what have they told you about the new project?**
 
 > 궁금한 게 있는데, 사람들이 새 프로젝트에 대해 너한테 뭐라고 했어?
 
@@ -21,10 +21,10 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- **"What have they told you"** so far?
+- **What have they told you** so far?
   (지금까지 그들이 너에게 뭐라고 했니?)
 
-- I need to know **"what have they told you"** before I make a decision.
+- I need to know **what have they told you** before I make a decision.
   (결정을 내리기 전에 그들이 너에게 뭐라고 했는지 알아야겠어.)
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪

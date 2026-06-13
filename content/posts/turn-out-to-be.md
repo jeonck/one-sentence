@@ -7,7 +7,7 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ## Today's Sentence
 
-**"The movie turned out to be much better than I expected."**
+**The movie turned out to be much better than I expected.**
 
 > 그 영화는 제가 기대했던 것보다 훨씬 더 좋은 것으로 드러났어요.
 
@@ -21,10 +21,10 @@ tags: ["Wonder", "영어", "회화영어"]
 
 ### 활용 예문
 
-- He **"turned out to be"** a very kind person.
+- He **turned out to be** a very kind person.
   (그는 결국 아주 친절한 사람인 것으로 드러났습니다.)
 
-- What I thought was a mistake **"turned out to be"** a great opportunity.
+- What I thought was a mistake **turned out to be** a great opportunity.
   (내가 실수라고 생각했던 것이 결국 큰 기회인 것으로 밝혀졌습니다.)
 
 하루 한 문장으로 영어 실력을 쌓아봐요! 💪
