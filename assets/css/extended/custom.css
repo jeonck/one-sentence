@@ -1,4 +1,5 @@
-/* 홈 인포 섹션과 첫 포스트 사이 여백 축소 */
+/* 홈 인포 섹션과 첫 포스트 사이 여백 제거 */
 .first-entry {
+    min-height: unset;
     margin-bottom: 0;
 }
